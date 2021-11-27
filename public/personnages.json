@@ -1,0 +1,112 @@
+{
+  "personnages": [
+    {
+      "name": "Michel",
+      "id": 0,
+      "city": "San Francisco",
+      "country": "USA",
+      "tags": ["Html", "Css", "Javascript"],
+      "tagline": "Make dev better again",
+      "price": 400
+    },
+    {
+      "name": "Paul",
+      "id": 1,
+      "city": "Paris",
+      "country": "France",
+      "tags": ["C++", "Html"],
+      "tagline": "Passioné de dev",
+      "price": 250
+    },
+    {
+      "name": "Justin",
+      "id": 2,
+      "city": "Montreal",
+      "country": "Canada",
+      "tags": ["Golang", "Python"],
+      "tagline": "Je code dans la neige",
+      "price": 500
+    },
+    {
+      "name": "Maria",
+      "id": 3,
+      "city": "Mexico City",
+      "country": "Mexico",
+      "tags": ["Css", "React"],
+      "tagline": "Le code vu du Mexique",
+      "price": 350
+    },
+    {
+      "name": "Alba",
+      "id": 4,
+      "city": "Barcelona",
+      "country": "Spain",
+      "tags": ["C++", "Golang", "Python", "Javascript"],
+      "tagline": "Podemos",
+      "price": 275
+    },
+    {
+      "name": "Romy",
+      "id": 5,
+      "city": "Berlin",
+      "country": "Germany",
+      "tags": ["Css", "Html"],
+      "tagline": "Du sérieux comme un allemand",
+      "price": 300
+    },
+    {
+      "name": "Michel",
+      "id": 0,
+      "city": "San Francisco",
+      "country": "USA",
+      "tags": ["Html", "Css", "Javascript"],
+      "tagline": "Make dev better again",
+      "price": 400
+    },
+    {
+      "name": "Paul",
+      "id": 1,
+      "city": "Paris",
+      "country": "France",
+      "tags": ["C++", "Html"],
+      "tagline": "Passioné de dev",
+      "price": 250
+    },
+    {
+      "name": "Justin",
+      "id": 2,
+      "city": "Montreal",
+      "country": "Canada",
+      "tags": ["Golang", "Python"],
+      "tagline": "Je code dans la neige",
+      "price": 500
+    },
+    {
+      "name": "Maria",
+      "id": 3,
+      "city": "Mexico City",
+      "country": "Mexico",
+      "tags": ["Css", "React"],
+      "tagline": "Le code vu du Mexique",
+      "price": 350
+    },
+    {
+      "name": "Alba",
+      "id": 4,
+      "city": "Barcelona",
+      "country": "Spain",
+      "tags": ["C++", "Golang", "Python", "Javascript"],
+      "tagline": "Podemos",
+      "price": 275
+    },
+    {
+      "name": "Romy",
+      "id": 5,
+      "city": "Berlin",
+      "country": "Germany",
+      "tags": ["Css", "Html"],
+      "tagline": "Du sérieux comme un allemand",
+      "price": 300
+    }
+  ]
+}
